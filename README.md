@@ -99,11 +99,6 @@ Coding-Upsolves/
 
 ---
 
-# 🤝 Contributing
-
-Please read **CONTRIBUTING.md** before contributing. Following the repository guidelines helps keep the project organized and ensures smooth collaboration among all team members.
-
----
 
 # 🌟 Our Goal
 
