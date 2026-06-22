@@ -1,0 +1,31 @@
+# Java
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build folders
+out/
+bin/
+target/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
